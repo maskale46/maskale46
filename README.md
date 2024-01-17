@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am Srikanth Maskale</h1>
 <h3 align="center">A passionate computer enthusiast</h3>
 
-<img align="right" alt="coding gif" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<!--<img align="right" alt="coding gif" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="idevanshu" /> </p>
 
