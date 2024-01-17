@@ -4,7 +4,7 @@
 
 <!--<img align="right" alt="coding gif" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="idevanshu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maskale46&label=Profile%20views&color=0e75b6&style=flat" alt="maskale46" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=100&size=50&pause=1000&height=180&lines=Hello+World...;EAT+SLEEP+CODE;Repeat" alt="Typing SVG" /></a>
 
