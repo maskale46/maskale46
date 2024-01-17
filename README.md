@@ -8,7 +8,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=100&size=50&pause=1000&height=180&lines=Hello+World...;EAT+SLEEP+CODE;Repeat" alt="Typing SVG" /></a>
 
-- 🤝I am Currently working in Management Consulting in Technology domain as Oracle Cloud Technical Developer. passionate about technologies in current trends.
+- 🤝I am Currently working in Management consulting domain as Oracle Cloud Technical Developer. passionate about technologies in current trends.
 
 <h3 align="left">Languages:</h3>
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
