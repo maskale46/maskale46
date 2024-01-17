@@ -8,13 +8,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=100&size=50&pause=1000&height=180&lines=Hello+World...;EAT+SLEEP+CODE;Repeat" alt="Typing SVG" /></a>
 
-- 🤝I am passionately seeking expert advice and opportunities to contribute to Open Source projects. My objective is to consistently broaden my expertise in computer science. However, my mission goes beyond personal growth; I wish to bring about a significant, positive impact within the technology realm. I am ready to utilize my capacity, skills and experience to make a substantial contribution.
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=idevanshu&theme=vue&hide_border=true" alt="idevanshu" /></p>
-
-<h3 align="left">DSA Profiles:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/idevanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="idevanshu" height="30" width="40" /></a>
+- 🤝I am Currently working in Management Consulting in Technology domain as Oracle Cloud Technical Developer. passionate about technologies in current trends.
 
 <h3 align="left">Languages:</h3>
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
