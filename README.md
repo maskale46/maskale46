@@ -1,4 +1,4 @@
-# massrikanth
+
 <h1 align="center">Hi 👋, I am Srikanth Maskale</h1>
 <h3 align="center">A passionate computer enthusiast</h3>
 
@@ -11,6 +11,9 @@
 - 🤝I am Currently working in Management consulting domain as Oracle Cloud Technical Developer. passionate about technologies in current trends.
 
 <h3 align="left">Languages:</h3>
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ </a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  </a> &nbsp;
@@ -25,19 +28,20 @@
  </a> &nbsp;
  
  <h3 align="left">Framework:</h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
  </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
  </a>&nbsp;
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+ <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
  </a>&nbsp;
  
   <h3 align="left">Technology:</h3>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="40"/>
+     <p>Cloud</p>
  </a>&nbsp;
  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
