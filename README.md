@@ -39,9 +39,8 @@
  </a>&nbsp;
  
   <h3 align="left">Technology:</h3>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="40"/>
-     <p>Cloud</p>
+  <a href="https://www.oracle.com/in/cloud/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/>
  </a>&nbsp;
  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
