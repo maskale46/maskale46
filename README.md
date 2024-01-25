@@ -8,7 +8,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=100&size=50&pause=1000&height=180&lines=Hello+World...;EAT+SLEEP+CODE;Repeat" alt="Typing SVG" /></a>
 
-- 🤝I am currently working in Management consulting domain as an Oracle Cloud Technical Developer. where in involved at development of application integrations within oracle SAAS products like Fusion Finance & HCM, passionate about technologies in current trends.
+- 🤝I am currently working in Management consulting domain as an Oracle Cloud Technical Developer. where in involved at development of application integrations within Oracle SAAS products like Fusion Finance & HCM, passionate about technologies in current trends.
 
 <h3 align="left">Languages:</h3>
  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
